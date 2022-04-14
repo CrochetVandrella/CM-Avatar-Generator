@@ -2,3 +2,54 @@
   text-align: center;
 }
 
+#container {
+  position: absolute;
+  margin: auto;
+  width: 1000px;
+  height: 1123px;
+}
+
+
+.alpaca {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+/* Default avatar setting */
+#accessories {
+  background-image: url(./components/alpaca/accessories/earings.png);
+}
+
+#background {
+  background-image: url(./components/alpaca/backgrounds/blue50.png);
+}
+
+#ears {
+  background-image: url(./components/alpaca/ears/default.png);
+}
+
+#eyes {
+  background-image: url(./components/alpaca/eyes/default.png);
+}
+
+#hair {
+  background-image: url(./components/alpaca/hair/default.png);
+}
+
+#leg {
+  background-image: url(./components/alpaca/leg/default.png);
+}
+
+#mouth {
+  background-image: url(./components/alpaca/mouth/default.png);
+}
+
+#neck {
+  background-image: url(./components/alpaca/neck/default.png);
+}
+
+#nose {
+  background-image: url(./components/alpaca/nose.png);
+}
